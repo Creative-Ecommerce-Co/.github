@@ -1,14 +1,14 @@
 #  <img src="https://user-images.githubusercontent.com/61543012/194781593-4dd309ce-afee-437b-8538-69ef5cbe42db.png" height="35" width="35" align-items="center" justify-content="center" /> Creative E-commerce Co.
-It is importatnt to query the blockchain for meaningful metrics on upcoming trends in the metaverse. Let us guide you using data analytics and market sentiment.
+Housing e-commerce ventures in containers which offer a better platform for automations, remote work and blockchain technology.
 
 ## Coaching - Containers - Consultation - Consolidation
 
-🧑‍🏫 Frustrated? Can't seem to buy before the blast-off?
+🧑‍🏫 Learn how to navigate the world of E-creativity and E-commerce.
 
-📦 Use pre-built queries or custom queries, even third-party queries from other dapps.
+📦 Containers built to take e-commerce businesses to the next-level. Learn more about [ICO's]().
 
-📑 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+📑 Get a consultation to bring your business into the future using blockchain technology.
 
-📊 Be the FIRST to get the latest and the greatest.
+📊 Incorporate blockchain accounting into your companies financial infrastructures thorugh consolidation.
 
 #### [An ECE Dapp](https://github.com/eliascharlese)
