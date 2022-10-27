@@ -9,6 +9,6 @@ Housing e-commerce ventures in containers which offer a better platform for auto
 
 📑 Get a consultation to bring your business into the future using blockchain technology.
 
-📊 Incorporate blockchain accounting into your companies financial infrastructures thorugh consolidation.
+📊 Incorporate blockchain accounting into your companies financial infrastructures thorugh crypto tax consolidation.
 
 #### [An ECE Dapp](https://github.com/eliascharlese)
