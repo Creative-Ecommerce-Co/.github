@@ -11,4 +11,4 @@ Housing e-commerce ventures in containers which offer a better platform for auto
 
 📊 Incorporate blockchain accounting into your companies financial infrastructures thorugh crypto tax consolidation.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
