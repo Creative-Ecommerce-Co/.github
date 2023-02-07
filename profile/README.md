@@ -3,7 +3,7 @@ Housing e-commerce ventures in containers which offer a better platform for auto
 
 ## Coaching - Containers - Consultation - Consolidation
 
-🧑‍🏫 Learn how to navigate the world of E-creativity and E-commerce.
+🧑‍🏫 Learn how to navigate the world of E-commerce and E-creativity.
 
 📦 Containers built to take e-commerce businesses to the next-level. Learn more about [ICO's]().
 
