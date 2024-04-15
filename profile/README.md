@@ -2,6 +2,8 @@
 
 Welcome to Creative Ecommerce Co., the future of containerized e-commerce solutions. Our platform is designed to revolutionize the way businesses operate online, offering efficiency, scalability, and security through innovative containerization technology.
 
+[CEC](https://cec.framer.ai) - [GG20]() - [Web3 Foundations Grants]()
+
 ## Table of Contents
 
 - [Introduction](#introduction)
